@@ -5,5 +5,5 @@ python:
 - "3.4"
 - "3.5"
 - "pypy"
-script: python3 -m unittest
+script: python3 unittest
 sudo: required
