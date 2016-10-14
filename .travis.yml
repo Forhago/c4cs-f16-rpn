@@ -5,5 +5,5 @@ python:
 - "3.4"
 - "3.5"
 - "pypy"
-script: nosetests
+script: python nosetests.py
 sudo: required
